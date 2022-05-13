@@ -74,3 +74,6 @@ python evaluate.py --dataset=ped2 --trained_model=ped2_26000.pth
 python evaluate.py --dataset=ped2 --trained_model=ped2_26000.pth --show_curve --show_heatmap
 ```
 ![Example 2](contents/result.png)
+
+## Many thanks and resource from:
+https://github.com/feiyuhuahuo/Anomaly_Prediction
